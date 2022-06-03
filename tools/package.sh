@@ -1,0 +1,3 @@
+cd ./build
+cpack
+cd ..
